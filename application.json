@@ -1,12 +1,8 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "页面2",
       "isDefault": true
-    },
-    {
-      "id": "页面1",
-      "isDefault": false
     }
   ],
   "viewMode": false,
